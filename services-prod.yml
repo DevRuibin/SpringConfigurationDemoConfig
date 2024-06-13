@@ -1,0 +1,3 @@
+application:
+  config:
+    students-url: http://services:8222/api/v1/students
